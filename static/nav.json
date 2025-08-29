@@ -4,7 +4,7 @@
 	"icon": "ti-download",
 	"sites": [{
 		"name": "吾爱下载",
-		"href": "https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=16&filter=lastpost&orderby=lastpost",
+		"href": "https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=16&filter=lastpost&orderby=lastpost/",
 		"desc": "软件下载",
 		"logo": "static/icons/52pojie.cn.ico"
 	}, {
@@ -18,15 +18,20 @@
 		"desc": "优秀资源推荐、评测，限免优惠资讯",
 		"logo": "static/icons/iplaysoft.com.ico"
 	}, {
-		"name": "镜像网站导航",
-		"href": "http://www.dayanzai.me/",
-		"desc": "镜像网站导航",
-		"logo": "static/icons/dayanzai.me.ico"
+		"name": "异星",
+		"href": "https://www.yxssp.com/27330.html/",
+		"desc": "软件空间",
+		"logo": "static/icons/yix.png"
 	}, {
 		"name": "芊芊精典",
 		"href": "https://myqqjd.com/android/",
 		"desc": "软件分享",
-		"logo": "https://myqqjd.com/wp-content/logo/logo-s.png"
+		"logo": "static/icons/qianq.png"
+	}, {
+		"name": "小众软件",
+		"href": "https://www.appinn.com/",
+		"desc": "分享免费、小巧、实用、有趣、绿色的软件",
+		"logo": "static/icons/appinn.com.ico"
 	}, {
 		"name": "大眼仔旭",
 		"href": "http://www.dayanzai.me/",
@@ -62,11 +67,6 @@
 		"href": "https://www.zdfans.com/",
 		"desc": "转手之后变得很难看，但还能用",
 		"logo": "static/icons/zdfans.com.ico"
-	}, {
-		"name": "小众软件",
-		"href": "https://www.appinn.com/",
-		"desc": "分享免费、小巧、实用、有趣、绿色的软件",
-		"logo": "static/icons/appinn.com.ico"
 	}, {
 		"name": "photopea",
 		"href": "https://www.photopea.com/",
