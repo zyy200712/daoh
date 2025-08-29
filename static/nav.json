@@ -1,11 +1,11 @@
 [{
 	"_id": "ruanjian",
-	"classify": "软件·社区",
+	"classify": "软件·下载",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件安全与病毒分析,逆向、破解、技术",
+		"name": "吾爱下载",
+		"href": "https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=16&filter=lastpost&orderby=lastpost",
+		"desc": "软件下载",
 		"logo": "static/icons/52pojie.cn.ico"
 	}, {
 		"name": "镜像网站导航",
