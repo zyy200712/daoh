@@ -1,4 +1,34 @@
 [{
+	"_id": "Aizhi",
+	"classify": "Ai·智问",
+	"icon": "ti-download",
+	"sites": [{
+		"name": "chatgpt",
+		"href": "https://chatgpt.com/",
+		"desc": "Ai • 智问",
+		"logo": "static/icons/cha.png"
+	}, {
+		"name": "perplexity",
+		"href": "https://www.perplexity.ai/",
+		"desc": "Ai • 智问",
+		"logo": "static/icons/pex.png"
+	}, {
+		"name": "deepseek",
+		"href": "https://chat.deepseek.com/",
+		"desc": "Ai • 智问",
+		"logo": "static/icons/deep.png"
+	}, {
+		"name": "grok",
+		"href": "https://grok.com/",
+		"desc": "Ai • 智问",
+		"logo": "static/icons/grok.png"
+	}, {
+		"name": "doubao",
+		"href": "https://www.doubao.com/chat/search/",
+		"desc": "Ai • 智问",
+		"logo": "static/icons/dobao.png"
+	}]
+}, {
 	"_id": "ruanjian",
 	"classify": "软件·下载",
 	"icon": "ti-download",
@@ -47,11 +77,6 @@
 		"href": "https://pesktop.com/",
 		"desc": "绿软、汉化",
 		"logo": "static/icons/pesk.png"
-	}, {
-		"name": "photopea",
-		"href": "https://www.photopea.com/",
-		"desc": "在线ps，支持绝大多数功能。",
-		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
 	"_id": "yunpan",
