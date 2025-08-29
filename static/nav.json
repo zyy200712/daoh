@@ -8,19 +8,29 @@
 		"desc": "软件下载",
 		"logo": "static/icons/52pojie.cn.ico"
 	}, {
+		"name": "果核剥壳",
+		"href": "https://www.ghpym.com/",
+		"desc": "优秀资源推荐、评测，限免优惠资讯",
+		"logo": "static/icons/ghpym.com.ico"
+	}, {
+		"name": "异次元软件",
+		"href": "https://www.iplaysoft.com/",
+		"desc": "优秀资源推荐、评测，限免优惠资讯",
+		"logo": "static/icons/iplaysoft.com.ico"
+	}, {
 		"name": "镜像网站导航",
 		"href": "http://www.dayanzai.me/",
 		"desc": "镜像网站导航",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
+		"name": "芊芊精典",
+		"href": "https://myqqjd.com/android/",
+		"desc": "软件分享",
+		"logo": "https://myqqjd.com/wp-content/logo/logo-s.png"
+	}, {
 		"name": "大眼仔旭",
 		"href": "http://www.dayanzai.me/",
 		"desc": "绿软、汉化软件分享",
-		"logo": "static/icons/dayanzai.me.ico"
-	}, {
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件分享",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
 		"name": "殁漂遥",
@@ -57,16 +67,6 @@
 		"href": "https://www.appinn.com/",
 		"desc": "分享免费、小巧、实用、有趣、绿色的软件",
 		"logo": "static/icons/appinn.com.ico"
-	}, {
-		"name": "果核剥壳",
-		"href": "https://www.ghpym.com/",
-		"desc": "优秀资源推荐、评测，限免优惠资讯",
-		"logo": "static/icons/ghpym.com.ico"
-	}, {
-		"name": "异次元软件",
-		"href": "https://www.iplaysoft.com/",
-		"desc": "优秀资源推荐、评测，限免优惠资讯",
-		"logo": "static/icons/iplaysoft.com.ico"
 	}, {
 		"name": "photopea",
 		"href": "https://www.photopea.com/",
