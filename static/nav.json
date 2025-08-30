@@ -1,7 +1,42 @@
 [{
+	"_id": "changy",
+	"classify": "常用网站",
+	"icon": "ti-package",
+	"sites": [{
+		"name": "CF",
+		"href": "https://dash.cloudflare.com/",
+		"desc": "常用网站",
+		"logo": "static/icons/cf.png"
+	}, {
+		"name": "github",
+		"href": "https://github.com/zyy200712/",
+		"desc": "常用网站",
+		"logo": "static/icons/github.png"
+	}, {
+		"name": "gitlab",
+		"href": "https://gitlab.com/",
+		"desc": "常用网站",
+		"logo": "static/icons/gitlab.png"
+	}, {
+		"name": "render",
+		"href": "https://dashboard.render.com/",
+		"desc": "常用网站",
+		"logo": "static/icons/render.png"
+	}, {
+		"name": "netlify",
+		"href": "https://app.netlify.com/teams/zkkev53/projects/",
+		"desc": "常用网站",
+		"logo": "static/icons/netlify.png"
+	}, {
+		"name": "vercel",
+		"href": "https://vercel.com/zcks-projects",
+		"desc": "常用网站",
+		"logo": "static/icons/vercel.png"
+	}]
+}, {
 	"_id": "Aizhi",
 	"classify": "Ai·智问",
-	"icon": "ti-download",
+	"icon": "ti-search",
 	"sites": [{
 		"name": "chatgpt",
 		"href": "https://chatgpt.com/",
