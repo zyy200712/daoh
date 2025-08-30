@@ -32,6 +32,11 @@
 		"href": "https://vercel.com/zcks-projects",
 		"desc": "常用网站",
 		"logo": "static/icons/vercel.png"
+	}, {
+		"name": "upstash",
+		"href": "https://console.upstash.com/redis/f8c8dc39-8d8d-4885-985f-563fb3041aec?teamid=0",
+		"desc": "常用网站",
+		"logo": "static/icons/upstash.png"
 	}]
 }, {
 	"_id": "Aizhi",
