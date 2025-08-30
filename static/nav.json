@@ -18,6 +18,11 @@
 		"desc": "常用网站",
 		"logo": "static/icons/gitlab.png"
 	}, {
+		"name": "Tool2",
+		"href": "https://y.zcr8.ddns-ip.net/Tool2.html#outlook",
+		"desc": "常用网站",
+		"logo": "static/icons/Tool2.png"
+	}, {
 		"name": "render",
 		"href": "https://dashboard.render.com/",
 		"desc": "常用网站",
