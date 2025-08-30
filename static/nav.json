@@ -37,6 +37,11 @@
 		"href": "https://console.upstash.com/redis/f8c8dc39-8d8d-4885-985f-563fb3041aec?teamid=0",
 		"desc": "常用网站",
 		"logo": "static/icons/upstash.png"
+	}, {
+		"name": "huaweicloud",
+		"href": "https://auth.huaweicloud.com/authui/login.html?service=https%3A%2F%2Fconsole-intl.huaweicloud.com%2Fdns%2F%3Fregion%3Dap-southeast-1%26cloud_route_state%3D%2Fdns%2Fpubliczones#/login",
+		"desc": "常用网站",
+		"logo": "static/icons/huaweicloud.png"
 	}]
 }, {
 	"_id": "Aizhi",
