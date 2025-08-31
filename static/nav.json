@@ -171,12 +171,12 @@
 		"name": "阿里云",
 		"href": "https://www.aliyundrive.com/sign/in",
 		"desc": "139zb8",
-		"logo": "static/icons/ali.ico"
+		"logo": "static/icons/ali.png"
 	}, {
-		"name": "坚果云",
-		"href": "https://www.jianguoyun.com/",
-		"desc": "小众服务稳定的网盘，支持webdav",
-		"logo": "static/icons/jianguoyun.com.ico"
+		"name": "百度云",
+		"href": "https://pan.baidu.com/",
+		"desc": "13991998174@qq.comz8139zb0",
+		"logo": "static/icons/baidu.png"
 	}, {
 		"name": "奶牛快传",
 		"href": "https://cowtransfer.com/",
