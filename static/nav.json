@@ -13,10 +13,10 @@
 		"desc": "常用网站",
 		"logo": "static/icons/yiso.png"
 	}, {
-		"name": "gitlab",
-		"href": "https://gitlab.com/",
+		"name": "youtube",
+		"href": "https://www.youtube.com/channel/UCXZLmOdYB5_O8G_tjkDpTbQ/videos",
 		"desc": "常用网站",
-		"logo": "static/icons/gitlab.png"
+		"logo": "static/icons/youtube.png"
 	}]
 }, {
 	"_id": "gongj",
