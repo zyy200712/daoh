@@ -163,10 +163,10 @@
 		"desc": "大文件即时传输，新晋优秀网盘",
 		"logo": "static/icons/wenshushu.cn.ico"
 	},  {
-		"name": "微云",
-		"href": "https://www.weiyun.com/",
-		"desc": "腾讯QQ网盘服务",
-		"logo": "static/icons/weiyun.com.ico"
+		"name": "阿里云",
+		"href": "https://www.aliyundrive.com/sign/in",
+		"desc": "139zb8",
+		"logo": "static/icons/ali.ico"
 	}, {
 		"name": "坚果云",
 		"href": "https://www.jianguoyun.com/",
