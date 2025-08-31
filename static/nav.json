@@ -8,10 +8,10 @@
 		"desc": "工具网站",
 		"logo": "static/icons/google.png"
 	}, {
-		"name": "github",
-		"href": "https://github.com/zyy200712/",
+		"name": "易搜",
+		"href": "https://yiso.fun/",
 		"desc": "常用网站",
-		"logo": "static/icons/github.png"
+		"logo": "static/icons/yiso.png"
 	}, {
 		"name": "gitlab",
 		"href": "https://gitlab.com/",
