@@ -183,10 +183,10 @@
 		"desc": "13991998174@qq.comz8139zb0",
 		"logo": "static/icons/baidu.png"
 	}, {
-		"name": "奶牛快传",
-		"href": "https://cowtransfer.com/",
-		"desc": "小众服务稳定的网盘",
-		"logo": "static/icons/cowtransfer.com.png"
+		"name": "TeraBox",
+		"href": "https://www.terabox.com/main?category=all",
+		"desc": "google登录",
+		"logo": "static/icons/TeraBox.png"
 	}, {
 		"name": "OneDrive",
 		"href": "http://onedrive.com/",
