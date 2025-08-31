@@ -22,6 +22,11 @@
 		"href": "https://mail.google.com/mail/u/0/#inbox",
 		"desc": "常用网站",
 		"logo": "static/icons/mail.png"
+	}, {
+		"name": "163",
+		"href": "https://news.163.com/",
+		"desc": "常用网站",
+		"logo": "static/icons/163.png"
 	}]
 }, {
 	"_id": "gongj",
