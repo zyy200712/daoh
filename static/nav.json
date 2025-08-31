@@ -211,7 +211,7 @@
 		"name": "Koofr",
 		"href": "https://app.koofr.net/app/storage/6f9e37d2-3cfa-45b6-8503-673e0db24a02",
 		"desc": "google登录",
-		"logo": "static/icons/Koofr.svg"
+		"logo": "static/icons/Koofr.png"
 	},{
 		"name": "天翼云盘",
 		"href": "https://cloud.189.cn/",
@@ -221,6 +221,6 @@
 		"name": "infiniCloud",
 		"href": "https://infini-cloud.net/en/modules/mypage/usage/",
 		"desc": "kev15F7",
-		"logo": "static/icons/infini-cloud.ico"	
+		"logo": "static/icons/infini-cloud.png"	
 	}]
 }]
