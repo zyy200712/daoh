@@ -208,19 +208,19 @@
 		"desc": "苹果在线存储和云服务",
 		"logo": "static/icons/icloud.com.png"
 	}, {
-		"name": "Firefox Send",
-		"href": "https://send.firefox.com/",
-		"desc": "火狐提供的快传网盘",
-		"logo": "static/icons/firefox.com.svg"
+		"name": "Koofr",
+		"href": "https://app.koofr.net/app/storage/6f9e37d2-3cfa-45b6-8503-673e0db24a02",
+		"desc": "google登录",
+		"logo": "static/icons/Koofr.svg"
 	},{
 		"name": "天翼云盘",
 		"href": "https://cloud.189.cn/",
 		"desc": "电信出品的优秀网盘",
 		"logo": "static/icons/189.cn.ico"
 	},{
-		"name": "曲奇办公",
-		"href": "https://quqi.com/",
-		"desc": "主打办公群组类网盘",
-		"logo": "static/icons/quqi.com.ico"	
+		"name": "infiniCloud",
+		"href": "https://infini-cloud.net/en/modules/mypage/usage/",
+		"desc": "kev15F7",
+		"logo": "static/icons/infini-cloud.ico"	
 	}]
 }]
