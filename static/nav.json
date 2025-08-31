@@ -17,6 +17,11 @@
 		"href": "https://www.youtube.com/channel/UCXZLmOdYB5_O8G_tjkDpTbQ/videos",
 		"desc": "常用网站",
 		"logo": "static/icons/youtube.png"
+	}, {
+		"name": "Gmail",
+		"href": "https://mail.google.com/mail/u/0/#inbox",
+		"desc": "常用网站",
+		"logo": "static/icons/mail.png"
 	}]
 }, {
 	"_id": "gongj",
