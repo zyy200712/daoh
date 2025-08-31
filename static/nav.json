@@ -3,10 +3,10 @@
 	"classify": "常用网站",
 	"icon": "ti-package",
 	"sites": [{
-		"name": "CF",
-		"href": "https://dash.cloudflare.com/",
-		"desc": "常用网站",
-		"logo": "static/icons/cf.png"
+		"name": "翻译",
+		"href": "https://translate.google.com/?hl=zh-cn&sl=auto&tl=zh-CN&op=translate",
+		"desc": "工具网站",
+		"logo": "static/icons/google.png"
 	}, {
 		"name": "github",
 		"href": "https://github.com/zyy200712/",
@@ -17,35 +17,55 @@
 		"href": "https://gitlab.com/",
 		"desc": "常用网站",
 		"logo": "static/icons/gitlab.png"
+	}]
+}, {
+	"_id": "gongj",
+	"classify": "工具网站",
+	"icon": "ti-package",
+	"sites": [{
+		"name": "CF",
+		"href": "https://dash.cloudflare.com/",
+		"desc": "工具网站",
+		"logo": "static/icons/cf.png"
+	}, {
+		"name": "github",
+		"href": "https://github.com/zyy200712/",
+		"desc": "工具网站",
+		"logo": "static/icons/github.png"
+	}, {
+		"name": "gitlab",
+		"href": "https://gitlab.com/",
+		"desc": "工具网站",
+		"logo": "static/icons/gitlab.png"
 	}, {
 		"name": "Tool2",
 		"href": "https://y.zcr8.ddns-ip.net/Tool2.html#outlook",
-		"desc": "常用网站",
+		"desc": "工具网站",
 		"logo": "static/icons/Tool2.png"
 	}, {
 		"name": "render",
 		"href": "https://dashboard.render.com/",
-		"desc": "常用网站",
+		"desc": "工具网站",
 		"logo": "static/icons/render.png"
 	}, {
 		"name": "netlify",
 		"href": "https://app.netlify.com/teams/zkkev53/projects/",
-		"desc": "常用网站",
+		"desc": "工具网站",
 		"logo": "static/icons/netlify.png"
 	}, {
 		"name": "vercel",
 		"href": "https://vercel.com/zcks-projects",
-		"desc": "常用网站",
+		"desc": "工具网站",
 		"logo": "static/icons/vercel.png"
 	}, {
 		"name": "upstash",
 		"href": "https://console.upstash.com/redis/f8c8dc39-8d8d-4885-985f-563fb3041aec?teamid=0",
-		"desc": "常用网站",
+		"desc": "工具网站",
 		"logo": "static/icons/upstash.png"
 	}, {
 		"name": "huaweicloud",
 		"href": "https://auth.huaweicloud.com/authui/login.html?service=https%3A%2F%2Fconsole-intl.huaweicloud.com%2Fdns%2F%3Fregion%3Dap-southeast-1%26cloud_route_state%3D%2Fdns%2Fpubliczones#/login",
-		"desc": "常用网站",
+		"desc": "工具网站",
 		"logo": "static/icons/huaweicloud.png"
 	}]
 }, {
