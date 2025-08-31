@@ -57,6 +57,11 @@
 		"href": "https://3.zcr9.qzz.io/",
 		"desc": "zcrzb zbbzb",
 		"logo": "static/icons/MoonTV.png"
+	}, {
+		"name": "LibreTV",
+		"href": "https://dao.zcr7.xx.kg/",
+		"desc": "zbbbbbbb",
+		"logo": "static/icons/LibreTV.png"
 		}]
 }, {
 	"_id": "gongj",
@@ -77,11 +82,6 @@
 		"href": "https://gitlab.com/",
 		"desc": "工具网站",
 		"logo": "static/icons/gitlab.png"
-	}, {
-		"name": "Tool2",
-		"href": "https://y.zcr8.ddns-ip.net/Tool2.html#outlook",
-		"desc": "工具网站",
-		"logo": "static/icons/Tool2.png"
 	}, {
 		"name": "render",
 		"href": "https://dashboard.render.com/",
