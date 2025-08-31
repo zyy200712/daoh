@@ -32,6 +32,11 @@
 		"href": "https://outlook.live.com/mail/0/",
 		"desc": " zb9678@outlook.comF7o",
 		"logo": "static/icons/outlook.png"
+	}, {
+		"name": "天气",
+		"href": "https://weather.com/zh-CN/weather/hourbyhour/l/2c84f577cefbf0dc582d0564342b14c69f7c8d331be829bd40b855e4f1fdb9da",
+		"desc": " zbb7001@gmail.com@zb8",
+		"logo": "static/icons/tianqi.png"
 	}]
 }, {
 	"_id": "zand",
