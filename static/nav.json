@@ -12,11 +12,16 @@
 		"href": "https://yiso.fun/",
 		"desc": "kevzcrzb0",
 		"logo": "static/icons/yiso.png"
-		}, {
+	}, {
 		"name": "我的小站",
 		"href": "https://www.panwiki.com/",
 		"desc": "zcrZb8",
 		"logo": "static/icons/xiaoz.png"
+	}, {
+		"name": "library",
+		"href": "https://z-library.sk/",
+		"desc": "zb9678@gmail.comZb8",
+		"logo": "static/icons/library.png"
 	}, {
 		"name": "youtube",
 		"href": "https://www.youtube.com/channel/UCXZLmOdYB5_O8G_tjkDpTbQ/videos",
