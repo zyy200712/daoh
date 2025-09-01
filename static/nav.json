@@ -268,4 +268,64 @@
 		"desc": "kev15F7",
 		"logo": "static/icons/infini-cloud.png"	
 	}]
+}, {
+	"_id": "yunpan",
+	"classify": "博客及写",
+	"icon": "ti-cloud",
+	"sites": [{
+		"name": "妑🔭差",
+		"href": "https://z.zcr4.ip-ddns.com/",
+		"desc": "zcr",
+		"logo": "static/icons/妑.png"
+	},  {
+		"name": "妑差写",
+		"href": "https://github.com/zcr07/zcr7.github.io/issues/new",
+		"desc": "zb9678@hotmail.comZb8",
+		"logo": "static/icons/妑.png"
+	}, {
+		"name": "百度云",
+		"href": "https://pan.baidu.com/",
+		"desc": "13991998174@qq.comz8139zb0",
+		"logo": "static/icons/baidu.png"
+	}, {
+		"name": "TeraBox",
+		"href": "https://www.terabox.com/main?category=all",
+		"desc": "google登录",
+		"logo": "static/icons/TeraBox.png"
+	}, {
+		"name": "OneDrive",
+		"href": "http://onedrive.com/",
+		"desc": "微软云存储，支持在线Offiec编辑",
+		"logo": "static/icons/ali.png"
+	}, {
+		"name": "DropBox",
+		"href": "https://www.dropbox.com/",
+		"desc": "全球最优秀的在线云存储",
+		"logo": "static/icons/dropbox.com.png"
+	}, {
+		"name": "GoogleDrive",
+		"href": "https://www.google.com/intl/zh-CN/drive/",
+		"desc": "Google在线云存储服务",
+		"logo": "static/icons/drive.google.com.png"
+	}, {
+		"name": "iCloud",
+		"href": "https://www.icloud.com/",
+		"desc": "苹果在线存储和云服务",
+		"logo": "static/icons/icloud.com.png"
+	}, {
+		"name": "Koofr",
+		"href": "https://app.koofr.net/app/storage/6f9e37d2-3cfa-45b6-8503-673e0db24a02",
+		"desc": "google登录",
+		"logo": "static/icons/Koofr.png"
+	},{
+		"name": "天翼云盘",
+		"href": "https://cloud.189.cn/",
+		"desc": "电信出品的优秀网盘",
+		"logo": "static/icons/ali.png"
+	},{
+		"name": "infiniCloud",
+		"href": "https://infini-cloud.net/en/modules/mypage/usage/",
+		"desc": "kev15F7",
+		"logo": "static/icons/infini-cloud.png"	
+	}]
 }]
