@@ -65,7 +65,7 @@
 	}, {
 		"name": "杷杷瓷伎・导航",
 		"href": "https://da.zcr4.ip-ddns.com/",
-		"desc": "网站导航",
+		"desc": "CF daohang2",
 		"logo": "static/icons/dh2.png"
 	}, {
 		"name": "Tool2",
@@ -90,12 +90,12 @@
 	"sites": [{
 		"name": "CF",
 		"href": "https://dash.cloudflare.com/",
-		"desc": "工具网站",
+		"desc": "google登录",
 		"logo": "static/icons/cf.png"
 	}, {
 		"name": "github",
 		"href": "https://github.com/zyy200712/",
-		"desc": "工具网站",
+		"desc": "zkkev53@gmail.com@Zb8",
 		"logo": "static/icons/github.png"
 	}, {
 		"name": "gitlab",
