@@ -55,12 +55,12 @@
 	"sites": [{
 		"name": "导航添加",
 		"href": "https://github.com/zyy200712/daoh/blob/master/static/nav.json",
-		"desc": "导航设置",
+		"desc": "zkkev53@gmail.com@Zb8",
 		"logo": "static/icons/github.png"
 	}, {
 		"name": "导航图标",
 		"href": "https://github.com/zyy200712/daoh/upload/master/static/icons",
-		"desc": "导航设置",
+		"desc": "zkkev53@gmail.com@Zb8",
 		"logo": "static/icons/github.png"
 	}, {
 		"name": "杷杷瓷伎・导航",
@@ -100,7 +100,7 @@
 	}, {
 		"name": "gitlab",
 		"href": "https://gitlab.com/",
-		"desc": "工具网站",
+		"desc": "zb9678@outlook.comZb8",
 		"logo": "static/icons/gitlab.png"
 	}, {
 		"name": "render",
@@ -125,7 +125,7 @@
 	}, {
 		"name": "huaweicloud",
 		"href": "https://auth.huaweicloud.com/authui/login.html?service=https%3A%2F%2Fconsole-intl.huaweicloud.com%2Fdns%2F%3Fregion%3Dap-southeast-1%26cloud_route_state%3D%2Fdns%2Fpubliczones#/login",
-		"desc": "工具网站",
+		"desc": "ngro1031@gmail.comZb8",
 		"logo": "static/icons/huaweicloud.png"
 	}]
 }, {
