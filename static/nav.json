@@ -302,30 +302,5 @@
 		"href": "https://as.zcr25.dedyn.io/admin#/collections/note",
 		"desc": "zb9678@hotmail.comZb8",
 		"logo": "static/icons/帊帊.png"
-	}, {
-		"name": "GoogleDrive",
-		"href": "https://www.google.com/intl/zh-CN/drive/",
-		"desc": "Google在线云存储服务",
-		"logo": "static/icons/drive.google.com.png"
-	}, {
-		"name": "iCloud",
-		"href": "https://www.icloud.com/",
-		"desc": "苹果在线存储和云服务",
-		"logo": "static/icons/icloud.com.png"
-	}, {
-		"name": "Koofr",
-		"href": "https://app.koofr.net/app/storage/6f9e37d2-3cfa-45b6-8503-673e0db24a02",
-		"desc": "google登录",
-		"logo": "static/icons/Koofr.png"
-	},{
-		"name": "天翼云盘",
-		"href": "https://cloud.189.cn/",
-		"desc": "电信出品的优秀网盘",
-		"logo": "static/icons/ali.png"
-	},{
-		"name": "infiniCloud",
-		"href": "https://infini-cloud.net/en/modules/mypage/usage/",
-		"desc": "kev15F7",
-		"logo": "static/icons/infini-cloud.png"	
 	}]
 }]
